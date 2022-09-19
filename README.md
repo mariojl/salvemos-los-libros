@@ -16,7 +16,7 @@ Dado que el proceso constará de varias etapas, empezando por recoger los libros
 
 # Estilos
 - He utilizado esta paleta de colores, completamente personalizada. Resaltar que el fondo he hecho un gradiente del azul primario a negro.
-![¡SALVEMOS LOS LIBROS!][¡SALVEMOS LOS LIBROS!](./images/colors.png)
+![¡SALVEMOS LOS LIBROS!](./images/colors.png)
 - He utilizado dos tipos de fuentes, open sans y sans serif.
 - Mockups de mi web:
 ## INDEX
