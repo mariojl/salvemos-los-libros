@@ -20,7 +20,7 @@ Dado que el proceso constará de varias etapas, empezando por recoger los libros
 - He utilizado dos tipos de fuentes, open sans y sans serif.
 - Mockups de mi web:
 ## INDEX
-(./images/indexmoq.jpg)
+(./images/indexmoq.png)
 
 ![¡SALVEMOS LOS LIBROS!](./images/nadia-shireen-best-new-books-16x9.jpg)  
 [Nuestra Web](index.html)
