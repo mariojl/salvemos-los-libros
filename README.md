@@ -16,11 +16,11 @@ Dado que el proceso constará de varias etapas, empezando por recoger los libros
 
 # Estilos
 - He utilizado esta paleta de colores, completamente personalizada. Resaltar que el fondo he hecho un gradiente del azul primario a negro.
-![¡SALVEMOS LOS LIBROS!](./images/colors.png)
+![colorines](./images/colors.png)
 - He utilizado dos tipos de fuentes, open sans y sans serif.
 - Mockups de mi web:
 ## INDEX
-![¡SALVEMOS LOS LIBROS!](./images/indexmoq.png)
+![indexmoq](./images/indexmoq.png)
 
-![¡SALVEMOS LOS LIBROS!](./images/nadia-shireen-best-new-books-16x9.jpg)  
+![libros_felices](./images/nadia-shireen-best-new-books-16x9.jpg)  
 [Nuestra Web](index.html)
