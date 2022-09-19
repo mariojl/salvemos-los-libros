@@ -21,6 +21,12 @@ Dado que el proceso constará de varias etapas, empezando por recoger los libros
 - Mockups de mi web:
 ## INDEX
 ![indexmoq](./images/indexmoq.png)
+## Tablas de eventos
+![indexmoq](./images/pag1moq.png)
+## Mapa y contacto
+![indexmoq](./images/pag2moq.png)
+## Login
+![indexmoq](./images/pag3moq.png)
 
 ![libros_felices](./images/nadia-shireen-best-new-books-16x9.jpg)  
 [Nuestra Web](index.html)
