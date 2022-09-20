@@ -16,17 +16,17 @@ Dado que el proceso constará de varias etapas, empezando por recoger los libros
 
 # Estilos
 - He utilizado esta paleta de colores, completamente personalizada. Resaltar que el fondo he hecho un gradiente del azul primario a negro.
-![colorines](./images/colors.png)
+![colorines](./assets/images/colors.png)
 - He utilizado dos tipos de fuentes, open sans y sans serif.
 - Mockups de mi web:
 ## INDEX
-![indexmoq](./images/indexmoq.png)
+![indexmoq](./assets/images/indexmoq.png)
 ## Tablas de eventos
-![indexmoq](./images/pag1moq.png)
+![indexmoq](./assets/images/pag1moq.png)
 ## Mapa y contacto
-![indexmoq](./images/pag2moq.png)
+![indexmoq](./assets/images/pag2moq.png)
 ## Login
-![indexmoq](./images/pag3moq.png)
+![indexmoq](./assets/images/pag3moq.png)
 
-![libros_felices](./images/nadia-shireen-best-new-books-16x9.jpg)  
+![libros_felices](./assets/images/nadia-shireen-best-new-books-16x9.jpg)  
 [Nuestra Web](index.html)
