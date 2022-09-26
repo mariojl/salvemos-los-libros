@@ -188,3 +188,20 @@ ul#topnav li a:hover {
 	margin: 0;
 	display: none;
 }
+
+table {
+	border: 3px solid #EBCD5B;
+	padding: 1%;
+	margin-left: 10%;
+	margin-right: 10%;
+	width: 70rem;
+}
+
+td {
+	border: 1px solid #EBCD5B;
+	width: auto;
+	text-align: center;
+}
+.width2 {
+	width: 80px;
+}
