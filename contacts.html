@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="utf-8">
+    <title>Salvemos a los libros</title>
+    <link rel="icon" type="image/x-icon" href="./assets/images/png-clipart-book-book.png">
+    <meta Nombre="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="./assets/styles/styles.css">
+</head>
+
+<body>
+    <div id="wrapper">
+        <div id="body">
+            <div id="banner">
+                <h1>Salvemos a los libros</h1>
+                <p>En la iniciativa <strong>"Salvemos los libros"</strong> nos comprometemos a recoger todos los
+                    antiguos libros de la
+                    nueva "area de ocio", antigua biblioteca, y darles una nueva vida en el mundo digital.</p>
+                <ul id="topnav">
+                    <li><a href="./index.html">Inicio</a></li>
+                    <li><a href="./events.html">Eventos</a></li>
+                    <li><a class="active">Contacto</a></li>
+                    <li><a href="./login.html">Login</a></li>
+                </ul>
+            </div>
+            <div id="container">
+                <div id="content">
+                    <div class="item">
+                        <h1>Contacto</h1>
+                        <div>
+                            <div class="container">
+                                <form action="action_page.php">
+                                    <label for="fname">Nombre</label>
+                                    <input type="text" id="fname" name="name" placeholder="Tu nombre..">
+                                    <label for="sname">Apellido</label>
+                                    <input type="text" id="sname" name="surname" placeholder="Tu apellido..">
+                                    <label for="province">Provincia</label>
+                                    <select id="province" name="province">
+                                        <option value="navarre">Navarra</option>
+                                        <option value="aragon">Aragón</option>
+                                        <option value="rioja">La Rioja</option>
+                                        <option value="basque">País Vasco</option>
+                                        <option value="other">Otras</option>
+                                    </select>
+                                    <input type="checkbox" id="give" name="give" value="dar">
+                                    <label for="give"> Me interesaría recoger uno/s libro/s</label><br>
+                                    <input type="checkbox" id="take" name="take" value="recoger">
+                                    <label for="take"> Me interesaría donar uno/s libro/s</label><br>
+                                    <input type="checkbox" id="help" name="help" value="ayudar">
+                                    <label for="help"> Simplemente querría echar una mano</label><br>
+                                    <input type="checkbox" id="info" name="info" value="inform">
+                                    <label for="info"> Me gustaría algo más de información</label><br>
+                                    <br>
+                                    <label for="subject">Tu mensaje</label>
+                                    <textarea id="subject" name="subject" placeholder="Escribe aquí.."
+                                        style="height:200px"></textarea>
+                                    <input type="submit" value="Enviar">
+                                </form>
+                                <section>
+                                    <div>
+                                        <h3>Dónde puedes encontrarnos</h3>
+                                        <div data-placeholder_class_index="1">
+                                            <iframe
+                                                data-placeholder-image="http://www.cuatrovientos.org/wp-content/plugins/complianz-gdpr/assets/images/placeholders/google-maps-minimal-1280x920.jpg"
+                                                data-category="marketing" data-service="google-maps"
+                                                class="cmplz-placeholder-element cmplz-no-video cmplz-processed cmplz-activated"
+                                                data-cmplz-target="src"
+                                                data-src-cmplz="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2926.299481780577!2d-1.6620626842413129!3d42.824287313649904!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd5092855cefdac7%3A0xab7c62765f5209e2!2sCuatrovientos%20Centro%20Integrado!5e0!3m2!1ses!2ses!4v1582790293432!5m2!1ses!2ses"
+                                                data-deferlazy="1"
+                                                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2926.299481780577!2d-1.6620626842413129!3d42.824287313649904!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd5092855cefdac7%3A0xab7c62765f5209e2!2sCuatrovientos%20Centro%20Integrado!5e0!3m2!1ses!2ses!4v1582790293432!5m2!1ses!2ses"
+                                                width="400" height="150" frameborder="0" style="border:0;"
+                                                allowfullscreen="" loading="lazy">
+                                            </iframe>
+                                            <p><strong>CENTRO INTEGRADO CUATROVIENTOS</strong><br>
+                                                Tel: (34) 948 12 41 29<br>
+                                                info@cuatrovientos.org</p>
+                                        </div>
+                                    </div>
+                                </section>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="footer">
+            <span class="left"><a href="./index.html"><img src="./assets/images/png-clipart-book-book.png" alt="index"
+                        width="20px"> Index</a> | <a href="#top">Ir arriba</a></span>
+            <span class="right"><a href="http://www.cuatrovientos.org/" target="_blank">Contacto</a> | <a
+                    href="https://www.google.com/maps?ll=42.824283,-1.659874&z=15&t=m&hl=es&gl=ES&mapclient=embed&cid=fotito56859738142673378"
+                    target="_blank">Mapa</a></span>
+        </div>
+    </div>
+</body>
+
+</html>
