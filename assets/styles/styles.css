@@ -331,7 +331,7 @@ input[type=text], select, textarea {
 	resize: vertical
   }
   
-  input[type=submit] {
+input[type=submit] {
 	background-color: #EBCD5B;
 	color: black;
 	padding: 12px 20px;
@@ -340,14 +340,12 @@ input[type=text], select, textarea {
 	cursor: pointer;
   }
   
-  /* When moving the mouse over the submit button, add a darker green color */
-  input[type=submit]:hover {
+input[type=submit]:hover {
 	background-color: #1b262c;
 	color: #bbe1fa;
   }
   
-  /* Add a background color and some padding around the form */
-  .container {
+.container {
 	border-radius: 5px;
 	background-color: #f2f2f2;
 	padding: 20px;
